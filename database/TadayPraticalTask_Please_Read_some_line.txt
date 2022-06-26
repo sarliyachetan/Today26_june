@@ -1,0 +1,9 @@
+ 
+1 Laravel using 8
+2 env file connect to db and create any name for database name 
+3 then cmd  => php artisan migrate  create all db in table 
+4 Product  Add And Edit Page please Cilck imagw round cricle then show file 
+5 All Done without Refresh Page
+6 Login Path : http://localhost/TodayPraticalTaskProduct/public/login    "/login"
+7 Admin Username : Admin@admin.com Password : 12345678
+ 
